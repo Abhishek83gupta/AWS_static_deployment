@@ -1,0 +1,1 @@
+# AWS_static_deployment
