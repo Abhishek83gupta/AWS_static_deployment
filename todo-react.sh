@@ -15,7 +15,7 @@ echo "Node version: $(node -v)"
 echo "npm version: $(npm -v)"
 
 # Install git
-apt-get install git -y
+yum install git -y
 git --version
 
 # Getting the src code
