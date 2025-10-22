@@ -23,5 +23,4 @@ This repository provides the necessary files and instructions to host your stati
 git clone https://github.com/Abhishek83gupta/AWS_static_deployment.git
 ```
 2. Follow the setup instructions in the deployment files
-3. Upload your static website files
-4. Your website will be live on AWS!
+3. Your website will be live on AWS!
